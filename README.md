@@ -8,7 +8,7 @@
 
 ## 下载
 
-到 [Releases](../../releases) 页面下载最新的 `RAP-Passport-社区试玩版-v1.2.zip`。
+到 [Releases](../../releases) 页面下载最新的 `RAP-Passport-Community-v1.2.zip`。
 
 包内三步上手：
 
